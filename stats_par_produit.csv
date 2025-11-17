@@ -1,0 +1,4 @@
+produit,ca_total,ca_moyenne,ca_mediane,qte_moyenne,qte_mediane,qte_ecart_type,qte_variance
+Produit A,17500,1250.0,1225.0,125.0,122.5,38.079,1450.0
+Produit B,15825,1217.308,1200.0,81.154,80.0,21.228,450.641
+Produit C,11500,958.333,900.0,47.917,45.0,17.896,320.265

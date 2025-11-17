@@ -1,0 +1,8 @@
+lignes_traites,39
+produits_distincts,3
+
+most_sold
+Produit A,1750.000
+
+least_sold
+Produit C,575.000
